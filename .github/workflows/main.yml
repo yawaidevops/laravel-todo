@@ -16,4 +16,3 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.LARAVEL_KEY }}
           script: "cd /home/ubuntu/devops && ./deploy.sh"
-          
