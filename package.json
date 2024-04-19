@@ -20,6 +20,7 @@
     },
     "dependencies": {
         "nprogress": "^0.2.0",
-        "vue-toastification": "^2.0.0-rc.5"
+        "vue-toastification": "^2.0.0-rc.5",
+        "ziggy": "^2.4.0"
     }
 }
