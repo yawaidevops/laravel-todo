@@ -9,7 +9,7 @@ import GuestLayout from '@/Layouts/GuestLayout.vue';
                 <div class="absolute">
                     <div class="">
                         <h1 class="my-2 text-gray-800 font-bold text-2xl">
-                            Todo App Edited
+                            Todo App Edited (2 <sup>nd</sup>)
                         </h1>
                         <p class="mb-10 my-2 text-gray-800">Simple Todo App Built with Laravel, Inertia.js and Vue.js</p>
                         <Link :href="route('todo')" class="sm:w-full lg:w-auto my-2 border rounded md py-4 px-8 text-center bg-indigo-600 text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-opacity-50 mt-10">Start using the app</Link>
