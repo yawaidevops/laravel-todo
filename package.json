@@ -22,9 +22,5 @@
         "nprogress": "^0.2.0",
         "vue-toastification": "^2.0.0-rc.5",
         "ziggy": "^2.4.0"
-    },
-    "engines": {
-        "node": "^16.14.1",
-        "npm": "^8.19.0"
-     }
+    }
 }
